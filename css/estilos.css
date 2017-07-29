@@ -1,0 +1,98 @@
+header
+{
+	background-color: #353334;
+	width: 100%;
+	height: 20px;
+}
+#logo
+{
+	width: 80px;
+	height: 20px;
+	float: left;
+	margin-top: -2px;
+	margin-left: 40px;
+}
+#logo img
+{
+	width: 40px;
+}
+.menu
+{
+	float: left;
+}
+.menu ul li
+{
+	float: left;
+	padding: 0px 10px 0px 0px;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	color:white;
+	font-size: 8px;
+	
+}
+.redes a img
+{
+	width: 8px;
+	border: .5px solid #fff;
+	padding: 2px;
+
+}
+.redes
+{
+	padding-top: 3px; 
+	float: right;
+	margin-right: 40px;
+}
+.slider img
+{
+	width: 100%	;
+	height: 400px;
+}
+.gris
+{
+	width: 100%;
+	height: 350px;
+	background-color: #afafaf;
+	margin-top: -5px;
+}
+.contenido
+{
+	margin: 0px 40px 0px 40px;
+	padding-top: 30px; 
+
+}
+.contenido section
+{
+	width: 33%;
+	float: left;
+	padding-top: 30px;
+}
+.contenido section img
+{
+	float: left;
+	padding: 0px 15px 0px 15px;
+	width: 44px;
+}
+.contenido section p
+{
+	float: left;
+	font-size: 10px;
+	width: 70%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.contenido section h2
+{
+	font-size: 12px;
+	font-weight: bold;
+}
+.contenido section a
+{
+	float: left;
+	text-decoration: none;
+	color: #666;
+	font-size: 10px;
+	padding: 15px 0px auto;
+}
