@@ -96,3 +96,124 @@ header
 	font-size: 10px;
 	padding: 15px 0px auto;
 }
+.testimonios
+{
+	margin: 50px 40px 50px 40px;
+
+}
+.titulo_testimonio
+{
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.detalle_testimonio
+{
+	color: grey;
+	text-align: center;
+	font-size: 14px;
+}
+.autor
+{
+		margin-top: 30px;
+		font-size: 10px;
+		font-weight: bold;
+		text-align: center;
+		color: grey;
+}
+.circulo
+{
+	width: 8px;
+	height: 8px;
+	background-color: grey;
+	float: left;
+	margin: 15px;
+	border-radius: 100px;
+
+}
+.siguiente
+{
+	margin-left: 360px;  
+}
+.more
+{
+	padding-bottom: 50px;
+	height: 250px;
+}
+.more img
+{
+	width: 40%;
+	float: left;
+}
+.more section
+{
+	float: left;
+	width: 60%;
+	background-color: #353334;
+	height: 243px;
+	color:white;
+}
+.more section p
+{
+	font-size: 20px;
+	margin: 20px;
+	font-weight: bold;
+}
+.more section article
+{
+	margin: 20px;
+	font-size: 14px;
+	color:grey;
+}
+.more section p a
+{
+	text-decoration: none;
+	color: grey;
+	font-size: 10px;
+}
+.contactenos
+{
+	text-align: center;
+	height: 200px;
+}
+.contactenos p
+{
+	font-size: 18px;
+	color: grey;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.contactenos span
+{
+	margin-top: 2px;
+	font-size: 13px;
+}
+.contactenos button
+{
+	margin-top: 25px;
+	  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.inverted {
+	filter: invert(100%);
+}
+footer
+{
+	text-align: center;
+	height: 200px;
+	background-color: #e1dede;
+	font-size: 12px;
+
+}
+footer img
+{
+	width: 70px;
+	margin-top: 60px;
+}
